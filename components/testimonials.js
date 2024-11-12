@@ -21,13 +21,13 @@ const testimonials = [
   {
     id: 2,
     name: 'John Smith',
-    review: 'The product quality exceeded my expectations. Will shop again!',
+    review: 'The product quality exceeded my expectations. Will shop again.',
     avatar: 'https://via.placeholder.com/150',
   },
   {
     id: 3,
     name: 'Alice Johnson',
-    review: 'Great discounts and easy checkout process. Love it!',
+    review: 'Great discounts and easy checkout process. Love it.',
     avatar: 'https://via.placeholder.com/150',
   },
 ];
