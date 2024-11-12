@@ -63,7 +63,7 @@ const Testimonials = () => {
                 {testimonial.name}
               </Text>
               <Text fontSize="md" color={textColor}>
-                "{testimonial.review}"
+                {testimonial.review}
               </Text>
             </VStack>
           </GridItem>

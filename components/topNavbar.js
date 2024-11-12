@@ -41,9 +41,8 @@ const TopNavbar = ({ cartItemCount = 0 }) => {
         <HStack display={{ base: 'none', md: 'flex' }} spacing={6}>
           <InputGroup>
             <Input placeholder="Search products..." variant="outline" size="lg" />
-            <InputRightElement
-              children={<SearchIcon color="gray.500" boxSize={6} />}
-            />
+            <InputRightElement><SearchIcon color="gray.500" boxSize={6} />
+            </InputRightElement>
           </InputGroup>
         </HStack>
 
